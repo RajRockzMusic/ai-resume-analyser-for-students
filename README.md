@@ -1,22 +1,16 @@
-# Welcome to your Lovable project
+# AI Resume Analyzer for Students
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/28482efc-9924-4195-8d99-6c923828a86e
+***Description:***
+AI-powered web app that analyzes student resumes and provides instant feedback on missing keywords, formatting issues, and relevant skills to improve ATS compatibility.
 
-## How can I edit this code?
+Demo URL: (https://ai-resume-analyser-for-students.netlify.app/)
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/28482efc-9924-4195-8d99-6c923828a86e) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -50,7 +44,7 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## Tech Stack
 
 This project is built with:
 
@@ -59,15 +53,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/28482efc-9924-4195-8d99-6c923828a86e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
